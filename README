@@ -1,2 +1,12 @@
-#!/bin/bash
-source Python_APIs/bin/activate
+
+NAME :   Tracking-Velib-Network
+
+DESCRIPTION : A personal project to follow the number of bicycles in stations in Paris' bicycle share program (Velib) via the opendata.paris.fr API and Python requests library. While the objective is mainly to build skills related to working with JSON, I am also interested in interpreting and visualizing the data.
+
+
+Python Libaries Used
+  - JSON
+  - Schedule
+  - Pandas
+  - Numpy
+  - Request
